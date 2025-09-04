@@ -1,9 +1,9 @@
-#!name=✈️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤
+#!name=☁️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤
 #!desc=𝘽𝙒𝙂流量问一哈还有多少
 #!system=ios
 
 [Panel]
-bwg = script-name=bwg, title="✈️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤", 
+bwg = script-name=bwg, title="☁️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤", 
 
 [Script]
 
