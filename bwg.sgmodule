@@ -3,8 +3,8 @@
 #!system=ios
 
 [Panel]
-jms = script-name=bwg, title="✈️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤", 
+bwg = script-name=bwg, title="✈️ 𝘽𝙒𝙂 𝙄𝙣𝙛𝙤", 
 
 [Script]
 
-jms = type=generic,script-path= https://raw.githubusercontent.com/Alice-Candy/Surge-models-bwg/main/bwg.js 
+bwg = type=generic,script-path= https://raw.githubusercontent.com/Alice-Candy/Surge-models-bwg/main/bwg.js 
